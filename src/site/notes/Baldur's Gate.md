@@ -7,3 +7,4 @@ Current Date: Elient 21st, 1492 DR
 [[History\|History]]
 [[Foreign Relations\|Foreign Relations]]
 [[Government\|Government]]
+[[Religion\|Religion]]

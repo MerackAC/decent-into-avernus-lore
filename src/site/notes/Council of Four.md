@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/council-of-four/","dg-note-properties":{}}
+---
+
+
+Comprised of four dukes, the Council of Four presides over the government of Baldur's Gate. Though the Parliament of Peers and the patriars hold a great deal of power, the Council of Four is the ultimate authority. It convenes in High Hall, a fortress in the middle of the Upper City, and controls the Flaming Fist. the navy, the tax collectors, and all public utilities, among other things.
+#### **Grand Duke Ulder Ravengard**
+Ulder Ravengard is a fearless soldier who rose up through the ranks of the Flaming Fist to become its supreme marshal. Ravengard used his military position and influence to secure for himself a seat on the Council of Four. Following the deaths of two council members amid a cloud of corruption and scandal, he persuaded the Parliament of Peers to back his election to grand duke. Upon ascending to the highest position in the city government, Ravengard refused to relinquish command of the Flaming Fist, making him the most powerful figure in the city by far. This decision has not endeared him to anyone, but Ravengard could care less about his popu larity. His only concerns are the stability and prosperity of Baldur's Gate, and he doesn't trust any of the other dukes or anyone in the Parliament of Peers to put the city's interests before their own. Ravengard rose to grand duke on a platform largely backed by idealistic commoners and enemies of the other established dukes. While he won election handily, Ravengard has struggled in performing his duties, finding his hands tied at every turn by both overt and invisible bureaucracy. Despite this, he's been a voice of reason and common sense on the Council of Four-if not the egalitarianism some hoped. He's also proven largely resistant to scandal and corruption, though many of his fellow dukes and those in the Parliament of Peers still regularly outmaneuver him politically. One of his only obvious pleasures remains the surprise inspections he regularly visits upon the troops at Wyrm's Rock.
+
+#### **Duke Belynne Stelmane**
+Once a vigorous and formidable politician, Duke Belynne Stelmane recently suffered a seizure that left her with a partially paralyzed face and slowed speech.
+
+#### **Duke Dillard Portyr**
+Duke Dillard Portyr was once a respected businessman, but after a string of sour deals, he pulled back from his investments. Now he uses his time to enjoy the comforts that his wealth and title provide him. He lives alone in his manor, having outlived his two wives and three sons, and trades correspondence with his niece, Liara Portyr, who commands a Flaming Fist outpost on Chult known as Fort Beluarian.
+He is known for listening with concern, showing an earnest desire to help, making promises to look into things, and then doing nothing. As a result, a great deal of the citizenry's scorn lies heaped upon Duke Portyr's shoulders.
+
+#### **Duke Thalamra Vanthampur**
+Acid-tongued, shrewd, and aggressive, Duke Thalamra Vanthampur is the matriarch of the Vanthampur family. Born with nothing, she spent years wallowing in obscurity, repairing and renovating the city's ancient sewer system. One promotion after another followed until she was named Master of Drains and Underways. By then, she had been married three times and given birth to three sons. Her lifelong goal has been to lift herself and her family out of the sewers and into high society.

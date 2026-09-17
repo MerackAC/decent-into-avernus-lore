@@ -2,6 +2,17 @@
 {"dg-publish":true,"permalink":"/foreign-relations/","dg-note-properties":{}}
 ---
 
+##### **Chapters**
+[[Foreign Relations#**Economy and Trade**\|#**Economy and Trade**]]
+**Cities**
+	[[Foreign Relations#**Candlekeep**\|#**Candlekeep**]]
+	[[Foreign Relations#**Elturel**\|#**Elturel**]]
+	[[Foreign Relations#**Port Nyanzaru**\|#**Port Nyanzaru**]]
+
+#### **Economy and Trade** 
+With trade ways running north and south along the Sword Coast, a port on the Sea of Swords, and the Chionthar River leading inland, Baldur's Gate is perfectly situated for its role as a commercial hub. Craftspeople, merchants, traders, and smugglers all make a brisk living in the city, and many immigrants are drawn by the dream that anyone willing to work hard can be successful in Baldur's Gate. 
+Baldur's Gate has plenty of exports, notably fish, fish glue, and sea salt, but its main economic force is trade itself. The city boasts multiple large and well-connected trade guilds and a marketplace where wholesalers can exchange goods before moving up or down the Sword Coast. 
+The number of ships in port and traders making their way north or south mean that Baldur's Gate boasts one of the most expansive markets in the west. Coin trumps morals in Baldur's Gate, with profit being the ultimate good. As a result, nearly anything can be bought and sold in the city's shops, whether it be rare jewels, magic weapons, secrets, alliances, or even murder. People visit the city seeking imports from Port Nyanzaru, verdigris-covered treasures dredged from the sea, blackmail information on political rivals, or custom-brewed poisons.
 Baldur's Gate trades with the coastal cities of Water deep and Neverwinter to the north while contending with the aggressive mercantile nation of Arnn to the south. Arnn seeks to dominate trade on the Sea of Swords and views Baldur's Gate as a growing threat. Baldur's Gate joined the Lords' Alliance, a coalition of independent cities that includes Neverwinter and Waterdeep, largely because of disputes with Arnn. Should Amn decide to attack Baldur's Gate, the city can count on the other members of the Lords' Alliance to come to its defense. This arrangement infuriates Arnn, which is not prepared to test the alliance's resolve. To the east, the nations of Elturgard and Cormyr view Baldur's Gate as a lawless cesspool that might have to be dealt with someday. These nations especially frown on the city's broad religious tolerance.
 
 #### **Candlekeep** 

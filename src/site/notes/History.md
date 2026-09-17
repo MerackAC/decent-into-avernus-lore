@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/history/","dg-note-properties":{}}
+---
+
+##### **Chapters**
+[[History#**Founding Baldur's Gate**\|#**Founding Baldur's Gate**]]
+[[History#**Order in Baldur's Gate**\|#**Order in Baldur's Gate**]]
+[[History#**Bhaalspawn**\|#**Bhaalspawn**]]
+
+#### **Founding Baldur's Gate** 
+Centuries ago, the hero Balduran spent years questing in lands across the Sea of Swords and beyond. When finally he returned to his village of Gray Harbor, he brought fantastic wealth with him, much of which he gifted to friends and family. These boons greatly improved Gray Harbor's fortunes, launching businesses, expanding its docks, and seeing the creation of a defensive wall around the town. In honor of their heroic patron, the citizens came to call one of their new wall's passages Baldur's Gate. Within a generation. though. the gate became synonymous with the community, and the settlement known as Baldur's Gate began appearing on maps of the Sword Coast. The city's surprising growth attracted all manner of people. Peasants affected by raiding and war, farmers rendered penniless by famine and drought, pirates seeking a neutral port- all types saw a chance to put their mark on the rapidly growing community.
+
+#### **Order in Baldur's Gate**
+As the city swelled, questions of law and taxation arose. The community's eldest families- largely those wealthy enough to afford homes within the city walls-came to be known as patriars and grew wary of the influx of strangers settling beyond their walls. The creation of various additional taxes on trade and travel led to violence breaking out between the Upper City- behind the original walls of Gray Harbor- and the Lower City, built on the slopes leading down to the Chionthar River. Patriar houses were ransacked, family heirlooms were lost forever, and heirs were kidnapped, never to be seen again. Gold flowed like blood as families and guilds hired mercenaries to protect them. Only the election of a new group of rulers- known as the dukes and, collectively, as the Council of Four- put the matter to rest. These elected rulers have been a part of the city's governance ever since. Another pillar of order in Baldur's Gate formed when the adventurer Eltan, a noted warrior raised in the area, returned home from exploits abroad. Seeing the chaos that had splintered his beloved city, Eltan united the city's independent mercenary companies under a single banner, that of the Flaming Fist. Eltan used the mercenaries to quash what pockets of disorder he found, punishing lawbreakers for their crimes. Though plenty of theft, blackmail, and assassination continued behind closed doors, the founding of the Flaming Fist marked a new chapter in the city's story.
+
+#### **Bhaalspawn**
+Over the years, Baidur's Gate has harbored countless evil schemes and conspiracies. Perhaps the most das tardly, though, was that perpetrated by Bhaal, god of murder. who foresaw his own death during the Time of Troubles. While in mortal form, Bhaal conceived multitudes of offspring, plotting to have them resurrect him. They actively hunted and slew each other, with the survivors collecting ever more of Bhaal's godly essence. Sarevok, a Bhaalspawn and member of the Iron Throne merchants' guild, sought to spark war with the nation of Arnn and become the new Lord of Murder. Another Bhaalspawn, aided by powerful allies, thwarted Sarevok's plan and brought stability, if not peace, to Baldur's Gate once more. Yet, Bhaal and his faithful have menaced the city ever since.
